@@ -3,7 +3,7 @@ import stable_whisper as whisper
 
 # device = "cuda"
 device = "cpu"
-in_path = "/home/alg/Downloads/a.m4a"
+in_path = "~/Downloads/a.m4a"
 out_format = "srt" # ass/srt
 word_level = False
 
